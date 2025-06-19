@@ -44,7 +44,9 @@ Este repositório documenta as atividades realizadas durante o laboratório de *
 ## 📁 Estrutura do Projeto
 
 ai-search-lab-dio/
+
 ├── README.md → Visão geral e etapas do desafio
+
 ├── insights.md → Reflexões e aplicações possíveis
 
 ---
